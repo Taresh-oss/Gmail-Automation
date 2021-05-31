@@ -14,6 +14,8 @@ One of the best feature of this automation file is that user can even schedule a
 
 The main concept behind this automation is Web Scraping. For Web Scraping, I have used Selenium library in python. The first step for automating this process is by giving your code access to your internet browser. Such access can be provided by downloading the web driver sepcific to your browser and pass the path of file in the script provided. In my case, I have used Google Chrome web driver which can be downloaded from [here](https://chromedriver.chromium.org/downloads).
 
-The material of how to use selenium for web scraping, which I referred while designing this project is available [here](https://selenium-python.readthedocs.io/). 
+The material of how to use selenium for web scraping, which I referred while designing this project is available [here](https://selenium-python.readthedocs.io/).
+
+Demo video of this project is available [here](https://www.linkedin.com/feed/update/urn:li:activity:6805115862278823936/).
 
 
