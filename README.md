@@ -6,9 +6,9 @@ For reference I have uploaded an excel sheet that will give you an idea of how d
 
 Here, the original cover letter will be fetched and the keywords(fields like Company name and Job Profile) will be replaced by the values specified in the excel sheet. This edited version will be saved into a new pdf file in the same directory. This updated cover letter along with your resume will be sent as an attachment in the email. An overview of how the updated cover letter looks like, can be seen in the image given below:
 
-![Cover Letter Changes](https://user-images.githubusercontent.com/61029579/120125699-cda7bd00-c187-11eb-86b5-b966d3110efb.JPG)
+![co](https://user-images.githubusercontent.com/61029579/120128074-2d559680-c18f-11eb-978f-786809860a94.JPG)
 
-One of the best feature of this automation file is that user can even schedule an email for the desired date and time. It saves a lot of time.
+One of the best feature of this automation file is that user can even schedule an email for the desired date and time. This saves a lot of time.
 
 ### Concept Used
 
