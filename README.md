@@ -8,7 +8,7 @@ Here, the original cover letter will be fetched and the keywords(fields like Com
 
 ![co](https://user-images.githubusercontent.com/61029579/120128074-2d559680-c18f-11eb-978f-786809860a94.JPG)
 
-One of the best feature of this automation file is that user can even schedule an email for the desired date and time. This saves a lot of time.
+One of the best feature of this automation file is that user can even schedule an email for the desired date and time. This saves a lot of time. All that user has to do is, run the script, rest all will be handled by the automation process.
 
 ### Concept Used
 
